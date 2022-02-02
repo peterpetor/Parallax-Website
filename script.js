@@ -4,7 +4,6 @@ let mountains_behind = document.getElementById("mountains_behind");
 let text = document.getElementById("text");
 let btn = document.getElementById("btn");
 let mountains_front = document.getElementById("mountains_front");
-let header = document.getElementById("header");
 let cloud = document.getElementById("cloud");
 
 window.addEventListener("scroll", function () {
@@ -17,7 +16,6 @@ window.addEventListener("scroll", function () {
   cloud.style.marginLeft = value * 5 + "px";
   text.style.marginTop = value * 1.5 + "px";
   btn.style.marginTop = value * 1.5 + "px";
-  header.style.top = value * 0.5 + "px";
 });
 
 
