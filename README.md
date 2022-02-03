@@ -11,4 +11,4 @@ Credits:
 <br>
 Footer: Exabvdy
 <br>
-Vektors: upklyak
+Vectors: upklyak
